@@ -21,7 +21,8 @@ menu = """"
     """
 
 menuChoices = [
-  "1", "one", "quick play", "2", "two", "3", "three", "past games", "4", "four", "word bank", "exit"
+  "1", "one", "quick play", "2", "two", "3", "three", "past games", "4",
+  "four", "word bank", "exit"
 ]
 
 
